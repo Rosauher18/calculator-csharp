@@ -1,0 +1,7 @@
+C:\xampp\htdocs\C#\Curso_Csharp\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\Curso_Csharp\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\Curso_Csharp\calculadora\bin\Debug\calculadora.exe.config
+C:\xampp\htdocs\C#\Curso_Csharp\calculadora\bin\Debug\calculadora.exe
+C:\xampp\htdocs\C#\Curso_Csharp\calculadora\bin\Debug\calculadora.pdb
+C:\xampp\htdocs\C#\Curso_Csharp\calculadora\obj\Debug\calculadora.exe
+C:\xampp\htdocs\C#\Curso_Csharp\calculadora\obj\Debug\calculadora.pdb
